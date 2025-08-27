@@ -1,4 +1,4 @@
-# NetflNetflix Data Analysis – Tableau Dashboard
+#Netflix Data Analysis – Tableau Dashboard
 
 📊 An interactive Tableau project analyzing Netflix’s catalog of movies and TV shows. This project explores patterns in genres, release trends, ratings, and content distribution to uncover insights about the streaming platform’s growth.
 
